@@ -1,2 +1,2 @@
-# POSE-ESTIMATION
-We Are the estimating the pose 
+# YOLOv8-Pose-Estimation
+Pose Estimation using YOLOv8 and OpenCV.
